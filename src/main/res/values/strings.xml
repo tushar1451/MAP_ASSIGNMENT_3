@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="correct">TRUE</string>
+    <string name="wrong">FALSE</string>
+    <string name="menuAverage">Get The Average</string>
+    <string name="menuNumberOfQuestions">Select Number of Questions</string>
+    <string name="menuReset">Reset the Saved Result</string>
+    <string name="q1">Orange part of the egg is called a Yolk.</string>
+    <string name="q2">Eiffel tower is in Paris.</string>
+    <string name="q3">Name of port of Germany is ossata.</string>
+    <string name="q4">Brazil is the biggest country in the world.</string>
+    <string name="q5">Mercedes is made in Germany.</string>
+    <string name="q6">Netherlands is located in Europe.</string>
+    <string name="q7">Tomatoes are vegetables</string>
+    <string name="q8">Our solar system is located in the milky way galaxy.</string>
+    <string name="q9">Light travels in a straight line.</string>
+    <string name="q10">Spider Man is a creation of Stan Lee.</string>
+    <string name="result">RESULT</string>
+    <string name="saveButton">SAVE</string>
+    <string name="ignoreButton">IGNORE</string>
+    <string name="scoreTextBegin">Your score: </string>
+    <string name="scoreTextEnd"> out of </string>
+    <string name="correctAnswer">Correct</string>
+    <string name="wrongAnswer">Wrong</string>
+    <string name="reset">The result has been reset</string>
+    <string name="okButton">OK</string>
+    <string name="cancelButton">CANCEL</string>
+    <string name="selectNumberOfQuestionsText">Enter the number of questions less than</string>
+    <string name="showTotalResult">Your Correct answers / Total number of questions = </string>
+    <string name="direction">/</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

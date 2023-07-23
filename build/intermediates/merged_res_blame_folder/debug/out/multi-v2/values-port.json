@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.quizapplication-mergeDebugResources-26:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/sharryy/.gradle/caches/transforms-3/7f2b41caa05b61c01c00ec1c1d36aa4c/transformed/appcompat-1.5.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
